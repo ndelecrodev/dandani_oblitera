@@ -3,3 +3,4 @@ def somar(num1:float, num2:float):
 
 print(somar(num1=5, num2=5))
 print("Ola, Mundo")
+print("ola")
