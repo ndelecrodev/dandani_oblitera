@@ -1,1 +1,1 @@
-ECHO est† ativado.
+Eu por enquanto n√£o irei contruir um readme.md
